@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/gatorhatur/zoo-keepr#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "package.json": "^2.0.1"
   }
 }
