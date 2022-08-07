@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Alex",
+      "species": "bear",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "11"
     }
   ]
 }
