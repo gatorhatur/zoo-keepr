@@ -118,6 +118,24 @@
         "anxious"
       ],
       "id": "11"
+    },
+    {
+      "name": "Bob",
+      "species": "Cactus",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "test",
+      "species": "Koala",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
